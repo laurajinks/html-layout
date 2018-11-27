@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Heebo', sans-serif;
+}
+
+nav {
+    background: #e6e6e6;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+
+p {
+    width: 80%;
+    margin: 20px auto;
+    font-size: 20px;
+}
+
+.square {
+    height: 85px;
+    width: 85px;
+    margin: 7.5px 20px;
+    background: #3399ff;
+}
+
+.text {
+    background: white;
+    height: 200px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.row {
+    width: 100%;
+    height: 100px;
+}
+
+.blue {
+    background: #3399ff
+    ;
+}
+
+.teal {
+    background:  #00e6b8;
+}
+
+.green {
+    background: #adebad;
+}
+
+.yellow {
+    background: #ffea2c;
+}

@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: #e6e6e6;
+}
+
+nav {
+    background: #404040;
+    height: 100px;
+    width: 100%;
+    top: 0;
+}
+
+main {
+    background: white;
+    width: 75%;
+    height: 600px;
+    margin: 0px auto;
+}
+
+footer {
+    background: black;
+    width: 75%;
+    height: 50px;
+    /* position: fixed; */
+    margin: 0px auto;
+    /* bottom: 0; */
+}
